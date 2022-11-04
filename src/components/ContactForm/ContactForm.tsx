@@ -1,10 +1,9 @@
-import {Button, CssBaseline, Grid, TextField, Typography} from "@mui/material"
+import {Button, Grid, TextField, Typography} from "@mui/material"
 import React from "react"
 
 export const ContactForm = () => {
   return (
     <div>
-      <CssBaseline />
       <Typography
         variant="h4"
         align="center"
